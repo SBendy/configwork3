@@ -1,0 +1,6 @@
+[
+  {"opcode": "LOAD_CONST", "operand": 308},
+  {"opcode": "STORE_MEM", "operand": 791},
+  {"opcode": "LOAD_MEM", "operand": 705},
+  {"opcode": "ABS", "operand": 870}
+]
